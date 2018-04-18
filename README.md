@@ -52,11 +52,11 @@ CREATE TABLE TBL_KULLANICI(
 );
 
 ## Kullanım
-1-) Harcama Ekleme-Güncelleme-Silme İle Harcamalarınızı Düzenleyebilirsiniz.\n
-2-) Belirli Tarihteki Harcamaları Listeleyebilir Ve O Tarihteki Günlük Harcamanızı,Aylık Harcamanızı,Yıllık Harcamanızı,En Çok Harcama Yaptığınız Alanı Ve En Çok Kullandığınız Harcama Aracınızı Görebilirsiniz.\n
-3-) Notlar Paneli İle Not Ekleyebilir ve Belirli Tarihlerde Yazmış Olduğunuz Notları Görüntüleyebilirsiniz.
-4-) Gelirler Paneli İle Her Ay İçin Gelirinizi Ekleyebilir Ve Ana Ekranda Gelirler Ve Giderler Sonucu Hesaplanan Kar Durumunuzu İnceleyebilirsiniz.
-5-)Raporlama İle Verileri Yazdırabilir,PDF Olarak Dışarı Aktarabilirsiniz.
+1-) Harcama Ekleme-Güncelleme-Silme İle Harcamalarınızı Düzenleyebilirsiniz.<br/>
+2-) Belirli Tarihteki Harcamaları Listeleyebilir Ve O Tarihteki Günlük Harcamanızı,Aylık Harcamanızı,Yıllık Harcamanızı,En Çok Harcama Yaptığınız Alanı Ve En Çok Kullandığınız Harcama Aracınızı Görebilirsiniz.<br/>
+3-) Notlar Paneli İle Not Ekleyebilir ve Belirli Tarihlerde Yazmış Olduğunuz Notları Görüntüleyebilirsiniz.<br/>
+4-) Gelirler Paneli İle Her Ay İçin Gelirinizi Ekleyebilir Ve Ana Ekranda Gelirler Ve Giderler Sonucu Hesaplanan Kar Durumunuzu İnceleyebilirsiniz.<br/>
+5-)Raporlama İle Verileri Yazdırabilir,PDF Olarak Dışarı Aktarabilirsiniz.<br/>
 
 ## İletişim
 bkoyunberkekurnaz@hotmail.com
