@@ -52,12 +52,12 @@ CREATE TABLE TBL_KULLANICI(
 );
 
 ## Kullanım
-Gider Hesapla Programı Kullanım...
-
-## Sql Tablo Kodları 
-Sql Tablo Kodları...
+1-) Harcama Ekleme-Güncelleme-Silme İle Harcamalarınızı Düzenleyebilirsiniz.
+2-) Belirli Tarihteki Harcamaları Listeleyebilir Ve O Tarihteki Günlük Harcamanızı,Aylık Harcamanızı,Yıllık Harcamanızı,En Çok Harcama Yaptığınız Alanı Ve En Çok Kullandığınız Harcama Aracınızı Görebilirsiniz.
+3-) Notlar Paneli İle Not Ekleyebilir ve Belirli Tarihlerde Yazmış Olduğunuz Notları Görüntüleyebilirsiniz.
+4-) Gelirler Paneli İle Her Ay İçin Gelirinizi Ekleyebilir Ve Ana Ekranda Gelirler Ve Giderler Sonucu Hesaplanan Kar Durumunuzu İnceleyebilirsiniz.
+5-)Raporlama İle Verileri Yazdırabilir,PDF Olarak Dışarı Aktarabilirsiniz.
 
 ## İletişim
-www.berkekurnaz.com
 bkoyunberkekurnaz@hotmail.com
 
